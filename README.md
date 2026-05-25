@@ -92,7 +92,7 @@ If you use Syrinx in published work, please cite the preprint (citation to follo
 
 ## Author
 
-**Felix G-W** — independent researcher, Edinburgh, Scotland.
+**Felix Walker** — independent researcher, Edinburgh, Scotland.
 
 ---
 
