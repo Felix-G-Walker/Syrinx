@@ -1,0 +1,36 @@
+name: syrinx
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - r-base=4.3
+  - r-ecodist
+  - r-caper
+  - ffmpeg
+  - libsndfile
+  - pip:
+    - librosa==0.10.2
+    - hdbscan==0.8.33
+    - biopython==1.83
+    - umap-learn==0.5.6
+    - scipy==1.13.0
+    - networkx==3.3
+    - plotly==5.22.0
+    - numpy>=1.24
+    - pandas>=2.0
+    - scikit-learn>=1.3
+    - rpy2==3.5.0
+    - dtaidistance>=2.3
+    - requests>=2.31
+    - acoustid>=1.2
+    - soundfile>=0.12
+    - pyyaml>=6.0
+    - birdnetlib>=0.9
+    - transformers>=4.35
+    - torch>=2.0
+    - dendropy>=4.6
+    - pytest>=7.4
+    - pytest-cov
+    - kaleido>=0.2

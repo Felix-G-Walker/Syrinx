@@ -1,0 +1,13 @@
+{
+  "_source": "Harris, S.J., Massimino, D., Balmer, D.E., Eaton, M.A., Noble, D.G., Pearce-Higgins, J.W., Woodcock, P. & Gillings, S. (2020). The Breeding Bird Survey 2019. BTO Research Report 732. BTO, Thetford.",
+  "_metric": "Percentage change in regional index since 1995 (BBS smoothed index)",
+  "_species": "Phylloscopus trochilus (Willow Warbler)",
+  "_note": "Values are approximate % change from 1995 baseline derived from Table A12 and regional trend figures in Harris et al. 2020. These are static preregistered values — do not modify.",
+  "Scotland": -18.0,
+  "Wales": -31.0,
+  "Northern Ireland": -22.0,
+  "England-SE": -55.0,
+  "England-SW": -48.0,
+  "England-Midlands": -47.0,
+  "England-N": -35.0
+}
